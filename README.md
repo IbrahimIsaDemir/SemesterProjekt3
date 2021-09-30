@@ -1,1 +1,1 @@
-# Semester Project 3. It is about brewery beer machine 
+# Semester Project 3. It is about a brewery beer machine 
